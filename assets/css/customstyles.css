@@ -4,6 +4,7 @@
 
 body {
     font-size:15px;
+    font-family: Roboto, 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .bs-callout {
@@ -1281,7 +1282,7 @@ h4.panel-title {
     color: #000
 }
 blockquote {
-        font-family: Menlo,Monaco,Consolas,"Courier New",monospace;
+        font-family: Roboto, Menlo,Monaco,Consolas,"Courier New",monospace;
 }
 blockquote code {
         background-color: white;
